@@ -1,2 +1,4 @@
 old/
 opengl_test
+.cache/
+compile_commands.json
